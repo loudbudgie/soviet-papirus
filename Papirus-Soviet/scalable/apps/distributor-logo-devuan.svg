@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="distributor-logo-devuan.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.25"
+     inkscape:cx="15.981651"
+     inkscape:cy="15.981651"
+     inkscape:window-width="2544"
+     inkscape:window-height="1381"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <circle
+     cx="16"
+     cy="17"
+     r="14"
+     style="opacity:.2"
+     id="circle1" />
+  <circle
+     cx="16"
+     cy="16"
+     r="14"
+     style="fill:#dd0000;fill-opacity:1"
+     id="circle2" />
+  <path
+     d="M 16,2 A 14,14 0 0 0 2,16 14,14 0 0 0 2.0215,16.586 14,14 0 0 1 16,3 14,14 0 0 1 29.979,16.414 14,14 0 0 0 30,16 14,14 0 0 0 16,2 Z"
+     style="fill:#ffffff;opacity:.1"
+     id="path2" />
+  <g
+     transform="matrix(.08952781 0 0 .08952781 -33.347313 -26.491779)"
+     style="opacity:.2"
+     id="g3">
+    <path
+       d="m461.83765 385.26329c351.11154 83.78964 18.96795 151.92346 18.96795 151.92346-6.54355 1.04566-11.8218 4.45425-14.99949 9.63398-3.56969 5.81872-3.87218 13.6808-0.53871 19.20842 4.05626 6.72618 7.73996 9.11928 12.82512 9.11928h13.40626s169.79909-50.45979 168.5227-100.86283c-0.64075-25.303-52.0661-68.10192-198.18383-89.02231z"
+       id="path3" />
+  </g>
+  <g
+     transform="matrix(.08952781 0 0 .08952781 -33.347313 -27.491779)"
+     style="fill:#f3d400;fill-opacity:1"
+     id="g4">
+    <path
+       d="m461.83765 385.26329c351.11154 83.78964 18.96795 151.92346 18.96795 151.92346-6.54355 1.04566-11.8218 4.45425-14.99949 9.63398-3.56969 5.81872-3.87218 13.6808-0.53871 19.20842 4.05626 6.72618 7.73996 9.11928 12.82512 9.11928h13.40626s169.79909-50.45979 168.5227-100.86283c-0.64075-25.303-52.0661-68.10192-198.18383-89.02231z"
+       style="fill:#f3d400;fill-opacity:1"
+       id="path4" />
+  </g>
+</svg>

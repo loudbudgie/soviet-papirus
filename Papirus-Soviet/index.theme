@@ -1,0 +1,32 @@
+[Icon Theme]
+Name=Papirus-Soviet
+Comment=Makes some of the icons soviet-themed
+Inherits=Papirus,hicolor
+
+Example=folder
+
+FollowsColorScheme=false
+
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64
+ToolbarDefault=22
+ToolbarSizes=16,22,24,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,24,32,48
+SmallDefault=16
+SmallSizes=16,22,24,32,48
+PanelDefault=48
+PanelSizes=16,22,24,32,48,64
+DialogDefault=48
+DialogSizes=16,22,24,32,48,64
+
+# Directory list
+Directories=scalable/apps
+
+
+[scalable/apps]
+Context=Applications
+Size=64
+MinSize=1
+MaxSize=512
+Type=Scalable

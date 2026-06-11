@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg9"
+   sodipodi:docname="konsole.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.15625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="2560"
+     inkscape:window-height="1397"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <rect
+     style="opacity:0.2"
+     width="28"
+     height="25"
+     x="2"
+     y="4"
+     rx="2"
+     ry="2"
+     id="rect1" />
+  <rect
+     style="fill:#232323;fill-opacity:1"
+     width="28"
+     height="25"
+     x="2"
+     y="3"
+     rx="2"
+     ry="2"
+     id="rect2" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.515559"
+     width="4.1244745"
+     height="1.5466778"
+     x="9.1244745"
+     y="11.201009"
+     rx="0.38666946"
+     ry="0.38666946"
+     id="rect4" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.515716;fill-opacity:1"
+     width="4.322732"
+     height="1.4409106"
+     x="-4.4963083"
+     y="11.19389"
+     rx="0.35996982"
+     ry="0.35996982"
+     transform="matrix(0.72400974,-0.68978975,0.72400974,0.68978975,0,0)"
+     id="rect7" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.515716"
+     width="4.322732"
+     height="1.4409106"
+     x="8.3110371"
+     y="-1.6134557"
+     rx="0.35996982"
+     ry="0.35996982"
+     transform="matrix(0.72400974,0.68978975,0.72400974,-0.68978975,0,0)"
+     id="rect8" />
+  <path
+     style="fill:#868686;opacity:0.1;fill-opacity:1"
+     d="M 4 3 C 2.892 3 2 3.892 2 5 L 2 6 C 2 4.892 2.892 4 4 4 L 28 4 C 29.108 4 30 4.892 30 6 L 30 5 C 30 3.892 29.108 3 28 3 L 4 3 z"
+     id="path8" />
+</svg>
